@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\PasswardBreaker.exe.config
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\PasswardBreaker.exe
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\PasswardBreaker.pdb
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.Form1.resources
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.Properties.Resources.resources
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.exe
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.pdb
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\obj\Debug\PasswardBreaker.csproj.CopyComplete
+C:\Users\USER\source\repos\PasswardBreaker\PasswardBreaker\bin\Debug\Ionic.Zip.dll
